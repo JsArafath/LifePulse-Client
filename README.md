@@ -1,8 +1,51 @@
-# React + Vite
+<h1 align="center">Life Pullse</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#  About Online Life Pullse -
+## Live Site: 
 
-Currently, two official plugins are available:
+# Technology :
+## *  Front-End
+    * React JS
+    * Redux
+    * Typescript    
+## *  Back-End
+    * Typescript
+    * Express JS 
+    * MongoDB
+    * NodeJs
+    * Mongoose    
+## *  Payment Gateway
+    * SSL COMMERZ   
+## *  Authentication
+    * JWT    
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# *  Project Features:
+          1. Authentication:
+            4 types of roles - Patient, Doctor, Admin, Pharmacy
+            Email Based login
+            
+          2. Patient:
+            ● Services View
+            ● View and make an appointment with a doctor
+            ● Order medicine from pharmacy
+            ● Payment
+            ● Create Review
+            
+          3. Doctor:
+            ● Manage appointments
+            ● Manage own patients
+            ● Manage slots
+            ● Manage services & specialities
+            ● Manage payments
+            
+         4. Admin:
+            ● Manage patients, doctors, pharmacy admin
+            ● Create a doctor’s profile and registration
+            ● Manage all appointments, all orders, all payments, reviews, reports
+            
+          5. Pharmacy Admin:
+            ● Manage medicines
+            ● Manage orders
+            ● Manage payments
+            ● Manage prescriptions
+            ● Discount management
