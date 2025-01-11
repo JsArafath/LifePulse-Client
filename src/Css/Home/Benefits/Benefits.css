@@ -1,0 +1,64 @@
+.benefits-section {
+    background-image: url('https://i.postimg.cc/QCv04Tjr/Screenshot-2025-01-12-030847.png'); /* Replace with your image path */
+    background-size: cover; /* Scale the image to cover the container */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center; /* Center the image */
+    padding: 50px 20px; /* Add padding */
+  }  
+
+.benefits-container {
+    max-width:fit-content; /* Set a max width */
+    margin: 0px;    /* Center the container */
+    text-align: center;
+    padding: 50px 20px; /* Add padding */
+    
+  }
+  .benefit-card {
+    background-color: #fff; /* White background */
+    border-radius: 6px; /* Rounded corners */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Light shadow */
+    width: 290px; /* Set fixed width */
+    padding: 20px;
+    /* margin: 20px; Space between cards */
+    text-align: center; /* Center the text */
+    transition: transform 0.2s ease, box-shadow 0.3s ease; /* Smooth hover effect */
+  }
+  .benefit-icon {
+    text-align: start;
+  }
+  .benefit-title {
+    font-size: 1rem; /* Increase title size */
+    font-weight: 700; /* Make title bold */
+    color: #000; /* Black color */
+    margin-bottom: 10px; /* Add space below the title */
+    text-align: start; 
+  }
+  
+  .benefit-description {
+    font-size: 0.8rem; /* Set readable font size */
+    color: #555; /* Light gray for description */
+    line-height: 1.6; /* Increase line height for better readability */
+    text-align: start;
+  }
+  .benefits-grid {
+    /* display: flex;
+    justify-content: center;
+    flex-wrap: wrap;  */
+    gap: 50px; /* Space between cards */
+    padding: 5%;
+  }
+  .benefits-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 5px; /* Space below the title */
+    text-align: center;
+  }
+  
+  .benefits-description {
+    font-size: 1rem;
+    margin-bottom: 40px; /* Space below the description */
+    color: #555;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+            

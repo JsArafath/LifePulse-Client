@@ -1,0 +1,7 @@
+.whychoose {
+    background-image: url('https://i.postimg.cc/1zCvbTHS/Screenshot-2025-01-12-051032.png'); /* Replace with your image path */
+    background-size: cover; /* Scale the image to cover the container */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center; /* Center the image */
+    padding: 50px 20px; /* Add padding */
+  }  

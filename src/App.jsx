@@ -1,9 +1,10 @@
-
+import Homepage from './Pages/HomePage/Homepage';
 function App() {
 
   return (
     <div>
-      Life Pulse
+      <Homepage></Homepage>
+
     </div>
   )
 }
