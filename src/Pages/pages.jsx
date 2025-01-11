@@ -1,6 +1,6 @@
 // import React from 'react';
 
-const hooks = () => {
+const pages = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const hooks = () => {
     );
 };
 
-export default hooks;
+export default pages;
